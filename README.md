@@ -4,3 +4,5 @@ To add form method post
 ##To run app
 
 ```
+npx serve app
+```
